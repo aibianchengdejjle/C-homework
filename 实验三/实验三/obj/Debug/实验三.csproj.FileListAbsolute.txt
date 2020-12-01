@@ -1,0 +1,10 @@
+E:\c#\实验三\实验三\bin\Debug\实验三.exe.config
+E:\c#\实验三\实验三\bin\Debug\实验三.exe
+E:\c#\实验三\实验三\bin\Debug\实验三.pdb
+E:\c#\实验三\实验三\obj\Debug\实验三.Form1.resources
+E:\c#\实验三\实验三\obj\Debug\实验三.Properties.Resources.resources
+E:\c#\实验三\实验三\obj\Debug\实验三.csproj.GenerateResource.cache
+E:\c#\实验三\实验三\obj\Debug\实验三.csproj.CoreCompileInputs.cache
+E:\c#\实验三\实验三\obj\Debug\实验三.exe
+E:\c#\实验三\实验三\obj\Debug\实验三.pdb
+E:\c#\实验三\实验三\obj\Debug\实验三.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+E:\c#\实验四\实验四\bin\Debug\实验四.exe.config
+E:\c#\实验四\实验四\bin\Debug\实验四.exe
+E:\c#\实验四\实验四\bin\Debug\实验四.pdb
+E:\c#\实验四\实验四\obj\Debug\实验四.Form1.resources
+E:\c#\实验四\实验四\obj\Debug\实验四.Properties.Resources.resources
+E:\c#\实验四\实验四\obj\Debug\实验四.csproj.GenerateResource.cache
+E:\c#\实验四\实验四\obj\Debug\实验四.csproj.CoreCompileInputs.cache
+E:\c#\实验四\实验四\obj\Debug\实验四.exe
+E:\c#\实验四\实验四\obj\Debug\实验四.pdb

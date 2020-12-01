@@ -1,0 +1,9 @@
+E:\c#\2++\2++\obj\Debug\_2__.Form1.resources
+E:\c#\2++\2++\obj\Debug\_2__.Properties.Resources.resources
+E:\c#\2++\2++\obj\Debug\2++.csproj.GenerateResource.cache
+E:\c#\2++\2++\obj\Debug\2++.csproj.CoreCompileInputs.cache
+E:\c#\2++\2++\bin\Debug\2++.exe.config
+E:\c#\2++\2++\bin\Debug\2++.exe
+E:\c#\2++\2++\bin\Debug\2++.pdb
+E:\c#\2++\2++\obj\Debug\2++.exe
+E:\c#\2++\2++\obj\Debug\2++.pdb

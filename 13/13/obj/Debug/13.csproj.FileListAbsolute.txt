@@ -1,0 +1,9 @@
+E:\c#\13\13\bin\Debug\13.exe.config
+E:\c#\13\13\bin\Debug\13.exe
+E:\c#\13\13\bin\Debug\13.pdb
+E:\c#\13\13\obj\Debug\_13.FrmPrint.resources
+E:\c#\13\13\obj\Debug\_13.Properties.Resources.resources
+E:\c#\13\13\obj\Debug\13.csproj.GenerateResource.cache
+E:\c#\13\13\obj\Debug\13.csproj.CoreCompileInputs.cache
+E:\c#\13\13\obj\Debug\13.exe
+E:\c#\13\13\obj\Debug\13.pdb

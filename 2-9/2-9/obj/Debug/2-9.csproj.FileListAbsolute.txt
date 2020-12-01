@@ -1,0 +1,10 @@
+E:\c#\2-9\2-9\bin\Debug\2-9.exe.config
+E:\c#\2-9\2-9\bin\Debug\2-9.exe
+E:\c#\2-9\2-9\bin\Debug\2-9.pdb
+E:\c#\2-9\2-9\obj\Debug\_2_9.FrmPPMViewer.resources
+E:\c#\2-9\2-9\obj\Debug\_2_9.Properties.Resources.resources
+E:\c#\2-9\2-9\obj\Debug\2-9.csproj.GenerateResource.cache
+E:\c#\2-9\2-9\obj\Debug\2-9.csproj.CoreCompileInputs.cache
+E:\c#\2-9\2-9\obj\Debug\2-9.exe
+E:\c#\2-9\2-9\obj\Debug\2-9.pdb
+E:\c#\2-9\2-9\obj\Debug\2-9.csprojAssemblyReference.cache

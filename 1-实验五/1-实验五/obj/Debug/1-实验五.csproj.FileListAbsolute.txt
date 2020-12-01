@@ -1,0 +1,9 @@
+E:\c#\1-实验五\1-实验五\bin\Debug\1-实验五.exe.config
+E:\c#\1-实验五\1-实验五\bin\Debug\1-实验五.exe
+E:\c#\1-实验五\1-实验五\bin\Debug\1-实验五.pdb
+E:\c#\1-实验五\1-实验五\obj\Debug\_1_实验五.Form1.resources
+E:\c#\1-实验五\1-实验五\obj\Debug\_1_实验五.Properties.Resources.resources
+E:\c#\1-实验五\1-实验五\obj\Debug\1-实验五.csproj.GenerateResource.cache
+E:\c#\1-实验五\1-实验五\obj\Debug\1-实验五.csproj.CoreCompileInputs.cache
+E:\c#\1-实验五\1-实验五\obj\Debug\1-实验五.exe
+E:\c#\1-实验五\1-实验五\obj\Debug\1-实验五.pdb

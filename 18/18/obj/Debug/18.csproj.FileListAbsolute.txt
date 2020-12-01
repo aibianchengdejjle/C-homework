@@ -1,0 +1,10 @@
+E:\c#\18\18\bin\Debug\18.exe.config
+E:\c#\18\18\bin\Debug\18.exe
+E:\c#\18\18\bin\Debug\18.pdb
+E:\c#\18\18\obj\Debug\18.csprojAssemblyReference.cache
+E:\c#\18\18\obj\Debug\_18.Form1.resources
+E:\c#\18\18\obj\Debug\_18.Properties.Resources.resources
+E:\c#\18\18\obj\Debug\18.csproj.GenerateResource.cache
+E:\c#\18\18\obj\Debug\18.csproj.CoreCompileInputs.cache
+E:\c#\18\18\obj\Debug\18.exe
+E:\c#\18\18\obj\Debug\18.pdb

@@ -1,0 +1,10 @@
+E:\c#\21\21\bin\Debug\21.exe.config
+E:\c#\21\21\bin\Debug\21.exe
+E:\c#\21\21\bin\Debug\21.pdb
+E:\c#\21\21\obj\Debug\_21.Form1.resources
+E:\c#\21\21\obj\Debug\_21.Properties.Resources.resources
+E:\c#\21\21\obj\Debug\21.csproj.GenerateResource.cache
+E:\c#\21\21\obj\Debug\21.csproj.CoreCompileInputs.cache
+E:\c#\21\21\obj\Debug\21.exe
+E:\c#\21\21\obj\Debug\21.pdb
+E:\c#\21\21\obj\Debug\21.csprojAssemblyReference.cache

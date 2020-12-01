@@ -1,0 +1,9 @@
+E:\c#\2-8\2-8\bin\Debug\2-8.exe.config
+E:\c#\2-8\2-8\bin\Debug\2-8.exe
+E:\c#\2-8\2-8\bin\Debug\2-8.pdb
+E:\c#\2-8\2-8\obj\Debug\_2_8.FrmDistanceMeasure.resources
+E:\c#\2-8\2-8\obj\Debug\_2_8.Properties.Resources.resources
+E:\c#\2-8\2-8\obj\Debug\2-8.csproj.GenerateResource.cache
+E:\c#\2-8\2-8\obj\Debug\2-8.csproj.CoreCompileInputs.cache
+E:\c#\2-8\2-8\obj\Debug\2-8.exe
+E:\c#\2-8\2-8\obj\Debug\2-8.pdb

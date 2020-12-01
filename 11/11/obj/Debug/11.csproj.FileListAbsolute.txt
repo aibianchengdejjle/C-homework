@@ -1,0 +1,10 @@
+E:\c#\11\11\bin\Debug\11.exe.config
+E:\c#\11\11\bin\Debug\11.exe
+E:\c#\11\11\bin\Debug\11.pdb
+E:\c#\11\11\obj\Debug\11.csprojAssemblyReference.cache
+E:\c#\11\11\obj\Debug\_11.FrmDrawRect.resources
+E:\c#\11\11\obj\Debug\_11.Properties.Resources.resources
+E:\c#\11\11\obj\Debug\11.csproj.GenerateResource.cache
+E:\c#\11\11\obj\Debug\11.csproj.CoreCompileInputs.cache
+E:\c#\11\11\obj\Debug\11.exe
+E:\c#\11\11\obj\Debug\11.pdb

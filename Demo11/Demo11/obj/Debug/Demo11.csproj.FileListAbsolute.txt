@@ -1,0 +1,10 @@
+D:\C#上机实验\Demo11\bin\Debug\Demo11.exe.config
+D:\C#上机实验\Demo11\bin\Debug\Demo11.exe
+D:\C#上机实验\Demo11\bin\Debug\Demo11.pdb
+D:\C#上机实验\Demo11\obj\Debug\Demo11.csprojAssemblyReference.cache
+D:\C#上机实验\Demo11\obj\Debug\Demo11.FrmDrawRect.resources
+D:\C#上机实验\Demo11\obj\Debug\Demo11.Properties.Resources.resources
+D:\C#上机实验\Demo11\obj\Debug\Demo11.csproj.GenerateResource.cache
+D:\C#上机实验\Demo11\obj\Debug\Demo11.csproj.CoreCompileInputs.cache
+D:\C#上机实验\Demo11\obj\Debug\Demo11.exe
+D:\C#上机实验\Demo11\obj\Debug\Demo11.pdb
